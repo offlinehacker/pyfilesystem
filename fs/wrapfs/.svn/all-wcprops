@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/696/trunk/fs/wrapfs
+END
+lazyfs.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/686/trunk/fs/wrapfs/lazyfs.py
+END
+hidedotfilesfs.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/662/trunk/fs/wrapfs/hidedotfilesfs.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/624/trunk/fs/wrapfs/__init__.py
+END
+debugfs.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/648/trunk/fs/wrapfs/debugfs.py
+END
+subfs.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/696/trunk/fs/wrapfs/subfs.py
+END
+limitsizefs.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/691/trunk/fs/wrapfs/limitsizefs.py
+END
+readonlyfs.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/632/trunk/fs/wrapfs/readonlyfs.py
+END

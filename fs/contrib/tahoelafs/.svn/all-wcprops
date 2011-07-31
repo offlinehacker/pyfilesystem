@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/698/trunk/fs/contrib/tahoelafs
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/698/trunk/fs/contrib/tahoelafs/util.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/694/trunk/fs/contrib/tahoelafs/__init__.py
+END
+connection.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/648/trunk/fs/contrib/tahoelafs/connection.py
+END
+test_tahoelafs.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/664/trunk/fs/contrib/tahoelafs/test_tahoelafs.py
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/669/trunk/fs/expose/wsgi
+END
+wsgi.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/669/trunk/fs/expose/wsgi/wsgi.py
+END
+dirtemplate.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/417/trunk/fs/expose/wsgi/dirtemplate.py
+END
+serve_home.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/417/trunk/fs/expose/wsgi/serve_home.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/417/trunk/fs/expose/wsgi/__init__.py
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/534/trunk/fs/contrib/bigfs
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/534/trunk/fs/contrib/bigfs/__init__.py
+END
+subrangefile.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/513/trunk/fs/contrib/bigfs/subrangefile.py
+END

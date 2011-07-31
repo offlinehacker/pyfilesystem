@@ -1,0 +1,82 @@
+
+0.3:
+
+    * New FS implementations:
+        * FTPFS:   access a plain old FTP server
+        * S3FS:    access remote files stored in Amazon S3
+        * RPCFS:   access remote files using a simple XML-RPC protocol
+        * SFTPFS:  access remote files on a SFTP server
+        * WrapFS:  filesystem that wraps an FS object and transparently
+                   modifies its contents (think encryption, compression, ...)
+        * LazyFS:  lazily instantiate an FS object the first time it is used
+        * ReadOnlyFS:   a WrapFS that makes an fs read-only
+    * Ability to expose FS objects to the outside world:
+        * expose.fuse:    expose an FS object using FUSE
+        * expose.xmlrpc:  expose an FS object a simple XML-RPC protocol
+        * expose.sftp:    expose an FS object SFTP
+        * expose.django_storage:  convert FS object to Django Storage object
+    * Extended attribute support (getxattr/setxattr/delxattr/listxattrs)
+    * Change watching support (add_watcher/del_watcher)
+    * Insist on unicode paths throughout:
+        * output paths are always unicode
+        * bytestring input paths are decoded as early as possible
+    * Renamed "fs.helpers" to "fs.path", and renamed the contained functions
+      to match those offered by os.path
+    * fs.remote:  utilities for implementing FS classes that interface
+                  with a remote filesystem
+    * fs.errors:  updated exception hierarchy, with support for converting
+                  to/from standard OSError instances
+    * Added cache_hint method to base.py
+    * Added settimes method to base implementation
+    * New implementation of print_fs, accessible through tree method on base class
+
+
+0.4:
+
+    * New FS implementations (under fs.contrib):
+        * BigFS:    read contents of a BIG file (C&C game file format)
+        * DAVFS:    access remote files stored on a WebDAV server
+        * TahoeLAFS:  access files stored in a Tahoe-LAFS grid
+    * New fs.expose implementations:
+        * dokan:   mount an FS object as a drive using Dokan (win32-only)
+        * importhook:  import modules from files in an FS object
+    * Modified listdir and walk methods to accept callables as well as strings
+      for wildcards.
+    * Added listdirinfo method, which yields both the entry names and the
+      corresponding info dicts in a single operation.
+    * Made SubFS a subclass of WrapFS, and moved it into its own module at
+      fs.wrapfs.subfs.
+    * Path-handling fixes for OSFS on win32:
+        * Work properly when pointing to the root of a drive.
+        * Better handling of remote UNC paths.
+        * Add ability to switch off use of long UNC paths.
+    * OSFSWatchMixin improvements:
+        * watch_inotify:  allow more than one watcher on a single path.
+        * watch_win32:  don't create immortal reference cycles.
+        * watch_win32:  report errors if the filesystem does't support
+                        ReadDirectoryChangesW.
+    * MountFS: added support for mounting at the root directory, and for
+      mounting over an existing mount.
+    * Added 'getpathurl' and 'haspathurl' methods.
+    * Added utils.isdir(fs,path,info) and utils.isfile(fs,path,info); these
+      can often determine whether a path is a file or directory by inspecting
+      the info dict and avoid an additional query to the filesystem.
+    * Added utility module 'fs.filelike' with some helpers for building and
+      manipulating file-like objects.
+    * Added getmeta and hasmeta methods
+    * Separated behaviour of setcontents and createfile
+    * Added a getmmap to base
+    * Added command line scripts fsls, fstree, fscat, fscp, fsmv
+    * Added command line scripts fsmkdir, fsmount
+    * Made SFTP automatically pick up keys if no other authentication
+      is available
+    * Optimized listdir and listdirinfo in SFTPFS
+    * Made memoryfs work with threads
+    * Added copyfile_non_atomic and movefile_non_atomic for improved performance of multi-threaded copies
+    * Added a concept of a writeable FS to MultiFS
+    * Added ilistdir() and ilistdirinfo() methods, which are generator-based
+      variants of listdir() and listdirinfo().
+    * Removed obsolete module fs.objectree; use fs.path.PathMap instead.
+    * Added setcontents_async method to base
+    * Added `appdirfs` module to abstract per-user application directories
+

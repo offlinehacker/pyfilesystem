@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/650/trunk/docs/contrib
+END
+bigfs.rst
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/395/trunk/docs/contrib/bigfs.rst
+END
+davfs.rst
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/395/trunk/docs/contrib/davfs.rst
+END
+tahoelafs.rst
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/650/trunk/docs/contrib/tahoelafs.rst
+END
+index.rst
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/650/trunk/docs/contrib/index.rst
+END

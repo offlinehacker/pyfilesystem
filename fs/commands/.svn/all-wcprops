@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/710/trunk/fs/commands
+END
+fstree.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/710/trunk/fs/commands/fstree.py
+END
+fscp.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/659/trunk/fs/commands/fscp.py
+END
+fsmount.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/659/trunk/fs/commands/fsmount.py
+END
+fsinfo
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/575/trunk/fs/commands/fsinfo
+END
+fsmkdir.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/659/trunk/fs/commands/fsmkdir.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/537/trunk/fs/commands/__init__.py
+END
+fscat.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/659/trunk/fs/commands/fscat.py
+END
+fstree
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/575/trunk/fs/commands/fstree
+END
+fscp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/575/trunk/fs/commands/fscp
+END
+fsmount
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/575/trunk/fs/commands/fsmount
+END
+fsls.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/703/trunk/fs/commands/fsls.py
+END
+fsrm.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/548/trunk/fs/commands/fsrm.py
+END
+fsmkdir
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/575/trunk/fs/commands/fsmkdir
+END
+runner.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/703/trunk/fs/commands/runner.py
+END
+fscat
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/575/trunk/fs/commands/fscat
+END
+fsmv.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/576/trunk/fs/commands/fsmv.py
+END
+fsserve.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/624/trunk/fs/commands/fsserve.py
+END
+fsls
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/575/trunk/fs/commands/fsls
+END
+fsrm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/575/trunk/fs/commands/fsrm
+END
+fsinfo.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/709/trunk/fs/commands/fsinfo.py
+END
+fsmv
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/575/trunk/fs/commands/fsmv
+END
+fsserve
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/575/trunk/fs/commands/fsserve
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/713/trunk/fs/tests
+END
+test_zipfs.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/381/trunk/fs/tests/test_zipfs.py
+END
+test_remote.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/701/trunk/fs/tests/test_remote.py
+END
+test_mountfs.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/700/trunk/fs/tests/test_mountfs.py
+END
+test_importhook.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/702/trunk/fs/tests/test_importhook.py
+END
+test_path.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/611/trunk/fs/tests/test_path.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/684/trunk/fs/tests/__init__.py
+END
+test_wrapfs.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/603/trunk/fs/tests/test_wrapfs.py
+END
+test_xattr.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/537/trunk/fs/tests/test_xattr.py
+END
+test_expose.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/631/trunk/fs/tests/test_expose.py
+END
+test_watch.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/713/trunk/fs/tests/test_watch.py
+END
+test_fs.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/537/trunk/fs/tests/test_fs.py
+END
+test_errors.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/252/trunk/fs/tests/test_errors.py
+END
+test_s3fs.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/622/trunk/fs/tests/test_s3fs.py
+END
+test_ftpfs.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/666/trunk/fs/tests/test_ftpfs.py
+END
+test_multifs.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/700/trunk/fs/tests/test_multifs.py
+END

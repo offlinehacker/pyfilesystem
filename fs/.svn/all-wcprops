@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/716/trunk/fs
+END
+opener.py
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/716/trunk/fs/opener.py
+END
+zipfs.py
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/708/trunk/fs/zipfs.py
+END
+mountfs.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/700/trunk/fs/mountfs.py
+END
+remote.py
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/701/trunk/fs/remote.py
+END
+path.py
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/705/trunk/fs/path.py
+END
+tempfs.py
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/662/trunk/fs/tempfs.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/694/trunk/fs/__init__.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/651/trunk/fs/utils.py
+END
+memoryfs.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/643/trunk/fs/memoryfs.py
+END
+appdirs.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/659/trunk/fs/appdirs.py
+END
+sftpfs.py
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/699/trunk/fs/sftpfs.py
+END
+watch.py
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/662/trunk/fs/watch.py
+END
+httpfs.py
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/711/trunk/fs/httpfs.py
+END
+appdirfs.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/662/trunk/fs/appdirfs.py
+END
+base.py
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/709/trunk/fs/base.py
+END
+errors.py
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/662/trunk/fs/errors.py
+END
+rpcfs.py
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/699/trunk/fs/rpcfs.py
+END
+s3fs.py
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/690/trunk/fs/s3fs.py
+END
+browsewin.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/709/trunk/fs/browsewin.py
+END
+ftpfs.py
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/715/trunk/fs/ftpfs.py
+END
+multifs.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/700/trunk/fs/multifs.py
+END
+remotefs.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/703/trunk/fs/remotefs.py
+END
+filelike.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/680/trunk/fs/filelike.py
+END
+xattrs.py
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/651/trunk/fs/xattrs.py
+END
+local_functools.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/421/trunk/fs/local_functools.py
+END
