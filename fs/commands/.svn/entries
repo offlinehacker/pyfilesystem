@@ -1,7 +1,7 @@
 10
 
 dir
-716
+717
 http://pyfilesystem.googlecode.com/svn/trunk/fs/commands
 http://pyfilesystem.googlecode.com/svn
 
@@ -60,40 +60,6 @@ willmcgugan
 
 2201
 
-fscp.py
-file
-
-
-
-
-2011-07-02T14:58:34.438287Z
-f6096991d84578230e28be84d7843132
-2011-03-08T20:11:45.590548Z
-659
-willmcgugan
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-9592
-
 fsmount.py
 file
 
@@ -127,6 +93,40 @@ willmcgugan
 
 
 4849
+
+fscp.py
+file
+
+
+
+
+2011-07-02T14:58:34.438287Z
+f6096991d84578230e28be84d7843132
+2011-03-08T20:11:45.590548Z
+659
+willmcgugan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9592
 
 fsinfo
 file
@@ -162,40 +162,6 @@ willmcgugan
 
 62
 
-fsmkdir.py
-file
-
-
-
-
-2011-07-02T14:58:34.438287Z
-940723078f6e98ef86506d0395ace2eb
-2011-03-08T20:11:45.590548Z
-659
-willmcgugan
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-457
-
 __init__.py
 file
 
@@ -229,6 +195,40 @@ willmcgugan
 
 
 0
+
+fsmkdir.py
+file
+
+
+
+
+2011-07-02T14:58:34.438287Z
+940723078f6e98ef86506d0395ace2eb
+2011-03-08T20:11:45.590548Z
+659
+willmcgugan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+457
 
 fscat.py
 file
@@ -298,40 +298,6 @@ willmcgugan
 
 62
 
-fscp
-file
-
-
-
-
-2011-07-02T14:58:34.438287Z
-f836343368edc348a3a1e69fbffedad4
-2010-12-23T22:52:46.712341Z
-575
-willmcgugan
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-60
-
 fsmount
 file
 
@@ -366,16 +332,16 @@ willmcgugan
 
 63
 
-fsls.py
+fscp
 file
 
 
 
 
 2011-07-02T14:58:34.438287Z
-66dc96807879af043dc3fc1d1be0e78a
-2011-05-09T11:54:21.145018Z
-703
+f836343368edc348a3a1e69fbffedad4
+2010-12-23T22:52:46.712341Z
+575
 willmcgugan
 
 
@@ -398,7 +364,7 @@ willmcgugan
 
 
 
-7933
+60
 
 fsrm.py
 file
@@ -434,6 +400,40 @@ willmcgugan
 
 1889
 
+fsls.py
+file
+
+
+
+
+2011-07-02T14:58:34.438287Z
+66dc96807879af043dc3fc1d1be0e78a
+2011-05-09T11:54:21.145018Z
+703
+willmcgugan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7933
+
 fsmkdir
 file
 
@@ -468,40 +468,6 @@ willmcgugan
 
 63
 
-runner.py
-file
-
-
-
-
-2011-07-02T14:58:34.438287Z
-d410dae2c65b74bf5ce06fc79b0e4354
-2011-05-09T11:54:21.145018Z
-703
-willmcgugan
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-13500
-
 fscat
 file
 
@@ -535,6 +501,40 @@ willmcgugan
 
 
 61
+
+runner.py
+file
+
+
+
+
+2011-07-02T14:58:34.438287Z
+d410dae2c65b74bf5ce06fc79b0e4354
+2011-05-09T11:54:21.145018Z
+703
+willmcgugan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13500
 
 fsmv.py
 file

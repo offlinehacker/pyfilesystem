@@ -1,15 +1,15 @@
 10
 
 dir
-716
+717
 http://pyfilesystem.googlecode.com/svn/trunk/fs
 http://pyfilesystem.googlecode.com/svn
 
 
 
-2011-06-15T00:28:08.595776Z
-716
-rfkelly0
+2011-07-28T13:54:54.361040Z
+717
+willmcgugan
 
 
 
@@ -486,10 +486,10 @@ file
 
 
 
-2011-07-02T14:58:36.548290Z
-a15ca2708ade63aa24048320bba83e49
-2011-05-26T10:45:14.925394Z
-708
+2011-07-31T19:41:17.524417Z
+53602000ea269af8c3b818f30c6c81a8
+2011-07-28T13:54:54.361040Z
+717
 willmcgugan
 
 
@@ -512,7 +512,7 @@ willmcgugan
 
 
 
-9503
+9504
 
 path.py
 file
@@ -653,6 +653,9 @@ willmcgugan
 contrib
 dir
 
+commands
+dir
+
 base.py
 file
 
@@ -686,9 +689,6 @@ willmcgugan
 
 
 46144
-
-commands
-dir
 
 errors.py
 file

@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 26
-/svn/!svn/ver/716/trunk/fs
+/svn/!svn/ver/717/trunk/fs
 END
 opener.py
 K 25
@@ -9,11 +9,11 @@ svn:wc:ra_dav:version-url
 V 36
 /svn/!svn/ver/716/trunk/fs/opener.py
 END
-zipfs.py
+remote.py
 K 25
 svn:wc:ra_dav:version-url
-V 35
-/svn/!svn/ver/708/trunk/fs/zipfs.py
+V 36
+/svn/!svn/ver/701/trunk/fs/remote.py
 END
 mountfs.py
 K 25
@@ -21,11 +21,11 @@ svn:wc:ra_dav:version-url
 V 37
 /svn/!svn/ver/700/trunk/fs/mountfs.py
 END
-remote.py
+zipfs.py
 K 25
 svn:wc:ra_dav:version-url
-V 36
-/svn/!svn/ver/701/trunk/fs/remote.py
+V 35
+/svn/!svn/ver/717/trunk/fs/zipfs.py
 END
 path.py
 K 25
@@ -75,17 +75,17 @@ svn:wc:ra_dav:version-url
 V 35
 /svn/!svn/ver/662/trunk/fs/watch.py
 END
-httpfs.py
-K 25
-svn:wc:ra_dav:version-url
-V 36
-/svn/!svn/ver/711/trunk/fs/httpfs.py
-END
 appdirfs.py
 K 25
 svn:wc:ra_dav:version-url
 V 38
 /svn/!svn/ver/662/trunk/fs/appdirfs.py
+END
+httpfs.py
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/711/trunk/fs/httpfs.py
 END
 base.py
 K 25
