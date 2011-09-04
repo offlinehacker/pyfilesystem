@@ -228,6 +228,11 @@ class OSFS(OSFSXAttrMixin, OSFSWatchMixin, FS):
     def readlink(self, path):
         path = self.getsyspath(path)
         return os.readlink(path)
+    
+    @convert_os_errors
+    def chmod(self, path, mode):
+        path = self.getsyspath(path)
+        return os.chmod(path, mode)
 
     @convert_os_errors
     def setcontents(self, path, contents, chunk_size=64*1024):

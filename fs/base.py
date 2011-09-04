@@ -384,6 +384,16 @@ class FS(object):
         """
         raise UnsupportedError("readlink")
 
+    def chmod(self, path, mode):
+        """Changes permissions of a file.
+
+        :param path: Path of a file.
+        :type path: string
+        :param mode: ORed combinatio of stat.S_*
+        :type path: integer.
+
+        """
+        raise UnsupportedError("chmod")
 
     def exists(self, path):
         """Check if a path references a valid resource.
